@@ -28,7 +28,6 @@ namespace LINQ_Criminal
         {
             Console.WriteLine("Enter parametr\n1.Name\n2.Surename\n3.National\n4.Grow\n5.Wight");
 
-
             int number = GetInputNumber();
 
             switch (number)
@@ -60,7 +59,10 @@ namespace LINQ_Criminal
 
             foreach (var criminal in filterName)
             {
-                criminal.ShowInfo();
+                if (criminal.IsPrisoner == false)
+                {
+                    criminal.ShowInfo();
+                }
             }
 
             Console.ReadKey();
@@ -75,7 +77,10 @@ namespace LINQ_Criminal
 
             foreach (var criminal in filterName)
             {
-                criminal.ShowInfo();
+                if (criminal.IsPrisoner == false)
+                {
+                    criminal.ShowInfo();
+                }
             }
 
             Console.ReadKey();
@@ -90,7 +95,13 @@ namespace LINQ_Criminal
 
             foreach (var criminal in filterName)
             {
-                criminal.ShowInfo();
+                if (criminal.IsPrisoner == false)
+                {
+                    if (criminal.IsPrisoner == false)
+                    {
+                        criminal.ShowInfo();
+                    }
+                }
             }
 
             Console.ReadKey();
@@ -105,7 +116,10 @@ namespace LINQ_Criminal
 
             foreach (var criminal in filterName)
             {
-                criminal.ShowInfo();
+                if (criminal.IsPrisoner == false)
+                {
+                    criminal.ShowInfo();
+                }
             }
 
             Console.ReadKey();
@@ -120,7 +134,10 @@ namespace LINQ_Criminal
 
             foreach (var criminal in filterName)
             {
-                criminal.ShowInfo();
+                if (criminal.IsPrisoner == false)
+                {
+                    criminal.ShowInfo();
+                }
             }
 
             Console.ReadKey();
@@ -143,7 +160,7 @@ namespace LINQ_Criminal
         private void FillBase()
         {
             _criminals.Add(new Criminal("Swonson", "Ron", "USA", false, 170, 100));
-            _criminals.Add(new Criminal("Simpson", "Ron", "USA", false,180, 120));
+            _criminals.Add(new Criminal("Simpson", "Ron", "USA", true,180, 120));
             _criminals.Add(new Criminal("Andreus", "Jon", "FIN", true, 150, 80));
             _criminals.Add(new Criminal("Bubich", "Booba", "COS", true, 160, 90));
             _criminals.Add(new Criminal("Pupick", "Pupa", "RU", false, 190, 120));
