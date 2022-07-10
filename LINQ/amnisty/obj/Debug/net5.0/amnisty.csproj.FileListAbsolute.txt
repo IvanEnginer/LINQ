@@ -1,0 +1,16 @@
+D:\LINQ\LINQ\amnisty\bin\Debug\net5.0\amnisty.exe
+D:\LINQ\LINQ\amnisty\bin\Debug\net5.0\amnisty.deps.json
+D:\LINQ\LINQ\amnisty\bin\Debug\net5.0\amnisty.runtimeconfig.json
+D:\LINQ\LINQ\amnisty\bin\Debug\net5.0\amnisty.runtimeconfig.dev.json
+D:\LINQ\LINQ\amnisty\bin\Debug\net5.0\amnisty.dll
+D:\LINQ\LINQ\amnisty\bin\Debug\net5.0\ref\amnisty.dll
+D:\LINQ\LINQ\amnisty\bin\Debug\net5.0\amnisty.pdb
+D:\LINQ\LINQ\amnisty\obj\Debug\net5.0\amnisty.csproj.AssemblyReference.cache
+D:\LINQ\LINQ\amnisty\obj\Debug\net5.0\amnisty.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ\LINQ\amnisty\obj\Debug\net5.0\amnisty.AssemblyInfoInputs.cache
+D:\LINQ\LINQ\amnisty\obj\Debug\net5.0\amnisty.AssemblyInfo.cs
+D:\LINQ\LINQ\amnisty\obj\Debug\net5.0\amnisty.csproj.CoreCompileInputs.cache
+D:\LINQ\LINQ\amnisty\obj\Debug\net5.0\amnisty.dll
+D:\LINQ\LINQ\amnisty\obj\Debug\net5.0\ref\amnisty.dll
+D:\LINQ\LINQ\amnisty\obj\Debug\net5.0\amnisty.pdb
+D:\LINQ\LINQ\amnisty\obj\Debug\net5.0\amnisty.genruntimeconfig.cache

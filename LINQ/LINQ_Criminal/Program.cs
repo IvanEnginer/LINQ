@@ -11,6 +11,8 @@ namespace LINQ_Criminal
             DataBase dataBase = new DataBase();
 
             dataBase.MenuSearchCriminal();
+
+            Console.ReadKey();
         }
     }
 
@@ -50,6 +52,17 @@ namespace LINQ_Criminal
             }
         }
 
+        private void ShowInfo(IEnumerable<Criminal> filterName)
+        {
+            foreach (var criminal in filterName)
+            {
+                if (criminal.IsPrisoner == false)
+                {
+                    criminal.ShowInfo();
+                }
+            }
+        }
+
         private void SerchOnName()
         {
             Console.Write("Enter name: ");
@@ -57,15 +70,7 @@ namespace LINQ_Criminal
 
             var filterName = from criminal in _criminals where criminal.Name == name select criminal;
 
-            foreach (var criminal in filterName)
-            {
-                if (criminal.IsPrisoner == false)
-                {
-                    criminal.ShowInfo();
-                }
-            }
-
-            Console.ReadKey();
+            ShowInfo(filterName);
         }
 
         private void SerchOnSurename()
@@ -73,17 +78,9 @@ namespace LINQ_Criminal
             Console.Write("Enter surename: ");
             string sureName = Console.ReadLine();
 
-            var filterName = from criminal in _criminals where criminal.Surname == sureName select criminal;
+            var filterSurename = from criminal in _criminals where criminal.Surname == sureName select criminal;
 
-            foreach (var criminal in filterName)
-            {
-                if (criminal.IsPrisoner == false)
-                {
-                    criminal.ShowInfo();
-                }
-            }
-
-            Console.ReadKey();
+            ShowInfo(filterSurename);
         }
 
         private void SerchByNation()
@@ -91,20 +88,9 @@ namespace LINQ_Criminal
             Console.Write("Enter surename: ");
             string nationality = Console.ReadLine();
 
-            var filterName = from criminal in _criminals where criminal.Surname == nationality select criminal;
+            var filterNation = from criminal in _criminals where criminal.Surname == nationality select criminal;
 
-            foreach (var criminal in filterName)
-            {
-                if (criminal.IsPrisoner == false)
-                {
-                    if (criminal.IsPrisoner == false)
-                    {
-                        criminal.ShowInfo();
-                    }
-                }
-            }
-
-            Console.ReadKey();
+            ShowInfo(filterNation);
         }
 
         private void SerchByGrowth()
@@ -112,17 +98,9 @@ namespace LINQ_Criminal
             Console.Write("Enter growth: ");
             int growth = GetInputNumber();
 
-            var filterName = from criminal in _criminals where criminal.Growth == growth select criminal;
+            var filterGrowth = from criminal in _criminals where criminal.Growth == growth select criminal;
 
-            foreach (var criminal in filterName)
-            {
-                if (criminal.IsPrisoner == false)
-                {
-                    criminal.ShowInfo();
-                }
-            }
-
-            Console.ReadKey();
+            ShowInfo(filterGrowth);
         }
 
         private void SerchByWeight()
@@ -130,17 +108,9 @@ namespace LINQ_Criminal
             Console.Write("Enter weight: ");
             int weight = GetInputNumber();
 
-            var filterName = from criminal in _criminals where criminal.Weight == weight select criminal;
+            var filterWeight = from criminal in _criminals where criminal.Weight == weight select criminal;
 
-            foreach (var criminal in filterName)
-            {
-                if (criminal.IsPrisoner == false)
-                {
-                    criminal.ShowInfo();
-                }
-            }
-
-            Console.ReadKey();
+            ShowInfo(filterWeight);
         }
 
         private int GetInputNumber()
