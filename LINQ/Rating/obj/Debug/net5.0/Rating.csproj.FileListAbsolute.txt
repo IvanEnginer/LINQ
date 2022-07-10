@@ -1,0 +1,16 @@
+D:\LINQ\LINQ\Rating\bin\Debug\net5.0\Rating.exe
+D:\LINQ\LINQ\Rating\bin\Debug\net5.0\Rating.deps.json
+D:\LINQ\LINQ\Rating\bin\Debug\net5.0\Rating.runtimeconfig.json
+D:\LINQ\LINQ\Rating\bin\Debug\net5.0\Rating.runtimeconfig.dev.json
+D:\LINQ\LINQ\Rating\bin\Debug\net5.0\Rating.dll
+D:\LINQ\LINQ\Rating\bin\Debug\net5.0\ref\Rating.dll
+D:\LINQ\LINQ\Rating\bin\Debug\net5.0\Rating.pdb
+D:\LINQ\LINQ\Rating\obj\Debug\net5.0\Rating.csproj.AssemblyReference.cache
+D:\LINQ\LINQ\Rating\obj\Debug\net5.0\Rating.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ\LINQ\Rating\obj\Debug\net5.0\Rating.AssemblyInfoInputs.cache
+D:\LINQ\LINQ\Rating\obj\Debug\net5.0\Rating.AssemblyInfo.cs
+D:\LINQ\LINQ\Rating\obj\Debug\net5.0\Rating.csproj.CoreCompileInputs.cache
+D:\LINQ\LINQ\Rating\obj\Debug\net5.0\Rating.dll
+D:\LINQ\LINQ\Rating\obj\Debug\net5.0\ref\Rating.dll
+D:\LINQ\LINQ\Rating\obj\Debug\net5.0\Rating.pdb
+D:\LINQ\LINQ\Rating\obj\Debug\net5.0\Rating.genruntimeconfig.cache
