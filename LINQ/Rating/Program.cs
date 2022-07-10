@@ -26,7 +26,7 @@ namespace Rating
     {
         private List<Player> _players = new List<Player>();
         private Random _random = new Random();
-        private int _quantityPlayers = 10;
+        private int _quantityPlayers = 100;
         private int _maximumLevel = 100;
         private int _maximumPower = 1000;
         private int _maximumTopPlayers = 3;
