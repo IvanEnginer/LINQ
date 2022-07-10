@@ -1,0 +1,16 @@
+D:\LINQ\LINQ\MeatBunk\bin\Debug\net5.0\MeatBunk.exe
+D:\LINQ\LINQ\MeatBunk\bin\Debug\net5.0\MeatBunk.deps.json
+D:\LINQ\LINQ\MeatBunk\bin\Debug\net5.0\MeatBunk.runtimeconfig.json
+D:\LINQ\LINQ\MeatBunk\bin\Debug\net5.0\MeatBunk.runtimeconfig.dev.json
+D:\LINQ\LINQ\MeatBunk\bin\Debug\net5.0\MeatBunk.dll
+D:\LINQ\LINQ\MeatBunk\bin\Debug\net5.0\ref\MeatBunk.dll
+D:\LINQ\LINQ\MeatBunk\bin\Debug\net5.0\MeatBunk.pdb
+D:\LINQ\LINQ\MeatBunk\obj\Debug\net5.0\MeatBunk.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ\LINQ\MeatBunk\obj\Debug\net5.0\MeatBunk.AssemblyInfoInputs.cache
+D:\LINQ\LINQ\MeatBunk\obj\Debug\net5.0\MeatBunk.AssemblyInfo.cs
+D:\LINQ\LINQ\MeatBunk\obj\Debug\net5.0\MeatBunk.csproj.CoreCompileInputs.cache
+D:\LINQ\LINQ\MeatBunk\obj\Debug\net5.0\MeatBunk.dll
+D:\LINQ\LINQ\MeatBunk\obj\Debug\net5.0\ref\MeatBunk.dll
+D:\LINQ\LINQ\MeatBunk\obj\Debug\net5.0\MeatBunk.pdb
+D:\LINQ\LINQ\MeatBunk\obj\Debug\net5.0\MeatBunk.genruntimeconfig.cache
+D:\LINQ\LINQ\MeatBunk\obj\Debug\net5.0\MeatBunk.csproj.AssemblyReference.cache
