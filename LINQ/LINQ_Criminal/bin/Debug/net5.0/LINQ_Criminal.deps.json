@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LINQ_Criminal/1.0.0": {
+        "runtime": {
+          "LINQ_Criminal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ_Criminal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

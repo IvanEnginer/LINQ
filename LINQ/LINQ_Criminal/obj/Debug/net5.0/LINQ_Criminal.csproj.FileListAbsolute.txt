@@ -1,0 +1,16 @@
+D:\LINQ\LINQ\LINQ_Criminal\bin\Debug\net5.0\LINQ_Criminal.exe
+D:\LINQ\LINQ\LINQ_Criminal\bin\Debug\net5.0\LINQ_Criminal.deps.json
+D:\LINQ\LINQ\LINQ_Criminal\bin\Debug\net5.0\LINQ_Criminal.runtimeconfig.json
+D:\LINQ\LINQ\LINQ_Criminal\bin\Debug\net5.0\LINQ_Criminal.runtimeconfig.dev.json
+D:\LINQ\LINQ\LINQ_Criminal\bin\Debug\net5.0\LINQ_Criminal.dll
+D:\LINQ\LINQ\LINQ_Criminal\bin\Debug\net5.0\ref\LINQ_Criminal.dll
+D:\LINQ\LINQ\LINQ_Criminal\bin\Debug\net5.0\LINQ_Criminal.pdb
+D:\LINQ\LINQ\LINQ_Criminal\obj\Debug\net5.0\LINQ_Criminal.csproj.AssemblyReference.cache
+D:\LINQ\LINQ\LINQ_Criminal\obj\Debug\net5.0\LINQ_Criminal.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ\LINQ\LINQ_Criminal\obj\Debug\net5.0\LINQ_Criminal.AssemblyInfoInputs.cache
+D:\LINQ\LINQ\LINQ_Criminal\obj\Debug\net5.0\LINQ_Criminal.AssemblyInfo.cs
+D:\LINQ\LINQ\LINQ_Criminal\obj\Debug\net5.0\LINQ_Criminal.csproj.CoreCompileInputs.cache
+D:\LINQ\LINQ\LINQ_Criminal\obj\Debug\net5.0\LINQ_Criminal.dll
+D:\LINQ\LINQ\LINQ_Criminal\obj\Debug\net5.0\ref\LINQ_Criminal.dll
+D:\LINQ\LINQ\LINQ_Criminal\obj\Debug\net5.0\LINQ_Criminal.pdb
+D:\LINQ\LINQ\LINQ_Criminal\obj\Debug\net5.0\LINQ_Criminal.genruntimeconfig.cache
