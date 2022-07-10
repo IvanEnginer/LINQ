@@ -1,0 +1,16 @@
+D:\LINQ\LINQ\Hospitale\bin\Debug\net5.0\Hospitale.exe
+D:\LINQ\LINQ\Hospitale\bin\Debug\net5.0\Hospitale.deps.json
+D:\LINQ\LINQ\Hospitale\bin\Debug\net5.0\Hospitale.runtimeconfig.json
+D:\LINQ\LINQ\Hospitale\bin\Debug\net5.0\Hospitale.runtimeconfig.dev.json
+D:\LINQ\LINQ\Hospitale\bin\Debug\net5.0\Hospitale.dll
+D:\LINQ\LINQ\Hospitale\bin\Debug\net5.0\ref\Hospitale.dll
+D:\LINQ\LINQ\Hospitale\bin\Debug\net5.0\Hospitale.pdb
+D:\LINQ\LINQ\Hospitale\obj\Debug\net5.0\Hospitale.csproj.AssemblyReference.cache
+D:\LINQ\LINQ\Hospitale\obj\Debug\net5.0\Hospitale.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ\LINQ\Hospitale\obj\Debug\net5.0\Hospitale.AssemblyInfoInputs.cache
+D:\LINQ\LINQ\Hospitale\obj\Debug\net5.0\Hospitale.AssemblyInfo.cs
+D:\LINQ\LINQ\Hospitale\obj\Debug\net5.0\Hospitale.csproj.CoreCompileInputs.cache
+D:\LINQ\LINQ\Hospitale\obj\Debug\net5.0\Hospitale.dll
+D:\LINQ\LINQ\Hospitale\obj\Debug\net5.0\ref\Hospitale.dll
+D:\LINQ\LINQ\Hospitale\obj\Debug\net5.0\Hospitale.pdb
+D:\LINQ\LINQ\Hospitale\obj\Debug\net5.0\Hospitale.genruntimeconfig.cache
