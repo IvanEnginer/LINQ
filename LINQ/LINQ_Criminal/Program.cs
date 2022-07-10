@@ -19,7 +19,6 @@ namespace LINQ_Criminal
     class DataBase
     {
         private List<Criminal> _criminals = new List<Criminal>();
-        private List<Criminal> _criminalsForSearch = new List<Criminal>();
 
         public DataBase()
         {
