@@ -1,0 +1,16 @@
+D:\LINQ\LINQ\solders\bin\Debug\net5.0\solders.exe
+D:\LINQ\LINQ\solders\bin\Debug\net5.0\solders.deps.json
+D:\LINQ\LINQ\solders\bin\Debug\net5.0\solders.runtimeconfig.json
+D:\LINQ\LINQ\solders\bin\Debug\net5.0\solders.runtimeconfig.dev.json
+D:\LINQ\LINQ\solders\bin\Debug\net5.0\solders.dll
+D:\LINQ\LINQ\solders\bin\Debug\net5.0\ref\solders.dll
+D:\LINQ\LINQ\solders\bin\Debug\net5.0\solders.pdb
+D:\LINQ\LINQ\solders\obj\Debug\net5.0\solders.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ\LINQ\solders\obj\Debug\net5.0\solders.AssemblyInfoInputs.cache
+D:\LINQ\LINQ\solders\obj\Debug\net5.0\solders.AssemblyInfo.cs
+D:\LINQ\LINQ\solders\obj\Debug\net5.0\solders.csproj.CoreCompileInputs.cache
+D:\LINQ\LINQ\solders\obj\Debug\net5.0\solders.dll
+D:\LINQ\LINQ\solders\obj\Debug\net5.0\ref\solders.dll
+D:\LINQ\LINQ\solders\obj\Debug\net5.0\solders.pdb
+D:\LINQ\LINQ\solders\obj\Debug\net5.0\solders.genruntimeconfig.cache
+D:\LINQ\LINQ\solders\obj\Debug\net5.0\solders.csproj.AssemblyReference.cache
