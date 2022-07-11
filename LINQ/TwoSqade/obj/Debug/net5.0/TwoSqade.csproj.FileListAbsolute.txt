@@ -1,0 +1,16 @@
+D:\LINQ\LINQ\TwoSqade\bin\Debug\net5.0\TwoSqade.exe
+D:\LINQ\LINQ\TwoSqade\bin\Debug\net5.0\TwoSqade.deps.json
+D:\LINQ\LINQ\TwoSqade\bin\Debug\net5.0\TwoSqade.runtimeconfig.json
+D:\LINQ\LINQ\TwoSqade\bin\Debug\net5.0\TwoSqade.runtimeconfig.dev.json
+D:\LINQ\LINQ\TwoSqade\bin\Debug\net5.0\TwoSqade.dll
+D:\LINQ\LINQ\TwoSqade\bin\Debug\net5.0\ref\TwoSqade.dll
+D:\LINQ\LINQ\TwoSqade\bin\Debug\net5.0\TwoSqade.pdb
+D:\LINQ\LINQ\TwoSqade\obj\Debug\net5.0\TwoSqade.csproj.AssemblyReference.cache
+D:\LINQ\LINQ\TwoSqade\obj\Debug\net5.0\TwoSqade.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ\LINQ\TwoSqade\obj\Debug\net5.0\TwoSqade.AssemblyInfoInputs.cache
+D:\LINQ\LINQ\TwoSqade\obj\Debug\net5.0\TwoSqade.AssemblyInfo.cs
+D:\LINQ\LINQ\TwoSqade\obj\Debug\net5.0\TwoSqade.csproj.CoreCompileInputs.cache
+D:\LINQ\LINQ\TwoSqade\obj\Debug\net5.0\TwoSqade.dll
+D:\LINQ\LINQ\TwoSqade\obj\Debug\net5.0\ref\TwoSqade.dll
+D:\LINQ\LINQ\TwoSqade\obj\Debug\net5.0\TwoSqade.pdb
+D:\LINQ\LINQ\TwoSqade\obj\Debug\net5.0\TwoSqade.genruntimeconfig.cache
